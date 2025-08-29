@@ -26,8 +26,6 @@ Struktur proyek diatur sebagai berikut untuk menjaga alur kerja yang terorganisi
 ├── README.md
 ├── requirements.txt
 
----
-
 ## Panduan Instalasi
 
 Ikuti langkah-langkah di bawah ini untuk menyiapkan lingkungan proyek Anda.
