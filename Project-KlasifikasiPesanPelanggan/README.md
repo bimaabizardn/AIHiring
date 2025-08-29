@@ -4,28 +4,6 @@ Proyek ini bertujuan untuk membangun model klasifikasi teks sederhana yang dapat
 
 ---
 
-## Struktur Repositori
-
-Struktur proyek diatur sebagai berikut untuk menjaga alur kerja yang terorganisir dan dapat direplikasi:
-
-├── data/
-│   ├── raw/
-│   │   └── dataset_labeled.csv
-│   └── processed/
-│       └── preprocessed_dataset_labeled.csv
-├── notebooks/
-│   ├── data_preprocessing.ipynb
-│   └── model_training.ipynb
-├── models/
-│   ├── tfidf_vectorizer.pkl
-│   └── svm_model.pkl
-├── src/
-│   ├── init.py
-│   └── predict.py
-├── .gitignore
-├── README.md
-├── requirements.txt
-
 ## Panduan Instalasi
 
 Ikuti langkah-langkah di bawah ini untuk menyiapkan lingkungan proyek Anda.
