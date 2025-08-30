@@ -1,9 +1,8 @@
 Deskripsi:
-Proyek ini mengimplementasikan antarmuka chat berbasis web menggunakan Python dan framework Streamlit, yang berintegrasi langsung dengan model AI "gemma:2b" dari Ollama. Antarmuka ini memungkinkan pengguna untuk mengirimkan pertanyaan teks dan menerima jawaban yang dihasilkan oleh model AI secara real-time.
+Proyek ini mengimplementasikan antarmuka chat berbasis web menggunakan Python dan framework Streamlit, yang berintegrasi langsung dengan model AI "gemma3:1b" dari Ollama. Antarmuka ini memungkinkan pengguna untuk mengirimkan pertanyaan teks dan menerima jawaban yang dihasilkan oleh model AI secara real-time.
 
 Metode yang Digunakan:
 - Streamlit: Digunakan untuk membangun antarmuka pengguna (UI) yang sederhana dan interaktif.
-- Ollama Library: Pustaka Python yang digunakan untuk berinteraksi dengan server Ollama. Komunikasi dilakukan melalui REST API lokal.
 - Ollama Model: Model gemma:2b adalah model bahasa besar yang diunduh dan dijalankan secara lokal oleh Ollama untuk menghasilkan respons.
 
 Alur Kode (`app.py`):
