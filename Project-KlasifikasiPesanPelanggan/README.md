@@ -9,10 +9,7 @@ Proyek ini bertujuan untuk membangun model klasifikasi teks sederhana yang dapat
 Ikuti langkah-langkah di bawah ini untuk menyiapkan lingkungan proyek Anda.
 
 1.  **Kloning Repositori**
-    ```
-    git clone <URL_repositori_Anda>
-    cd <nama_folder_repositori>
-    ```
+
 
 2.  **Buat Lingkungan Virtual (Opsional, tapi Sangat Direkomendasikan)**
     ```
